@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="2087254.jpg"
-       alt="Flags of our fathers"
-       width="650">
+  <img src="githubbanner.jpg"
+       alt="Flags of our fathers">
 </p>
 <h2 align="center">Hey! I'm Daffa Rabbani</h2>
 
