@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="githubbanner.jpg"
+  <img src="ww2-githubbanner.jpg"
        alt="Flags of our fathers">
 </p>
 <h2 align="center">Hey! I'm Daffa Rabbani</h2>
