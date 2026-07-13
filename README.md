@@ -10,9 +10,9 @@
 
 
 ###
-
-## 🌐 Socials:
+<div align="center">
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daffarabbani/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/neo_rival67/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@The-Foundation) 
+ </div>
 
 ## 💻 Tech Stack:
 [![Program](https://skillicons.dev/icons?i=js,java,py,dart,go,cpp,c,mdphp&perline=9)](https://skillicons.dev)
