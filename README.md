@@ -11,8 +11,17 @@
 
 ###
 <div align="center">
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daffarabbani/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/neo_rival67/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@The-Foundation) 
- </div>
+  <a href="https://www.instagram.com/neo_rival67/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/daffarabbani/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:daffarabbani140304@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo"  />
+  </a>
+</div>
+
 
 ## 💻 Tech Stack:
 [![Program](https://skillicons.dev/icons?i=js,java,py,dart,go,cpp,c,mdphp&perline=9)](https://skillicons.dev)
