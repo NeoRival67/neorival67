@@ -1,3 +1,7 @@
+<p align="center">
+    <img alt="Assassination of julius caesar" src="/2087254.jpg">
+</p>
+
 <h2 align="center">Hey! I'm Daffa Rabbani</h2>
 
 ###
