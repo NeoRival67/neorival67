@@ -1,7 +1,8 @@
 <p align="center">
-    <img alt="Assassination of julius caesar" src="/2087254.jpg">
+  <img src="2087254.jpg"
+       alt="Flags of our fathers"
+       width="100%">
 </p>
-
 <h2 align="center">Hey! I'm Daffa Rabbani</h2>
 
 ###
