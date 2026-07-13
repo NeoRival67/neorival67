@@ -6,20 +6,8 @@
 
 ###
 
-# 💫 About Me:
-🌱 I’m currently learning everything <br>💬 Ask me anything about Cloud Computing and Back-End Programming<br>⚡ Hobbyist programming, Jogging, Debugging, reading non-fiction books
+<h3 align="center">Full-Stack Dev Backend Specialize | Cloud Engineer | IT Solution</h3>
 
-###
-
-<details>
- <summary><strong>What i am Learning / Working</strong></summary>
-    - 🌐 Web Developer (Bootstrap, Jquery, PHP, react) <br>
-    - 📱 Mobile Developer (Flutter) <br>
-    - 🌠 Enterprice Resource Planning (Idempiere, Odoo)  <br>
-    - 🖥️ DevOps(Jenkins, Docker) <br>
-    - ☁ Cloud Engineer (AWS, GCP, Firebase, Supabase) <br>
-    - 📊 System architecture 
-</details>
 
 ###
 
